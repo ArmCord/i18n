@@ -1,16 +1,16 @@
 {
     "loading_screen_update": "Una nuova versione di ArmCord è disponibile. Per favore aggiorna all'ultima versione.",
-    "setup_question1_answer1": "Setup veloce",
+    "setup_question1_answer1": "Configurazione espressa",
     "loading_screen_start": "Avviando Armcord…",
     "loading_screen_offline": "Sembri essere offline. Per favore connettiti all'Internet e riprova.",
     "setup_question1": "Seleziona quale tipo di setup vuoi eseguire:",
     "setup_question2": "Seleziona il tuo canale/istanza di Discord:",
     "setup_question3": "ArmCord dovrebbe gestire l'installazione di client mod?",
-    "yes": "Si",
+    "yes": "Sì",
     "no": "No",
     "next": "Prossimo",
     "setup_question4": "Seleziona un client mod che vuoi installare:",
-    "setup_question1_answer2": "Setup completo",
-    "setup_offline": "Sembri essere offline. Per favore connettiti all'Internet e riavvia il setup di ArmCord.",
-    "setup_question4_clientmodnotice": "Perchè non tutti? Avere molti client mod allo stesso tempo puo causare problemi. Se davvero vuoi farlo, vedi la nostra documentazione."
+    "setup_question1_answer2": "Configurazione completa",
+    "setup_offline": "Sembri essere offline. Per favore connettiti all'Internet e riavvia la configurazione di ArmCord.",
+    "setup_question4_clientmodnotice": "Perché non tutti? Avere molti client mod allo stesso tempo puo causare problemi. Se davvero vuoi farlo, vedi la nostra documentazione."
 }
