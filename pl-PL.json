@@ -17,5 +17,12 @@
     "settings-updater": "Sprawdź aktualizacje",
     "settings-tray": "Zminimalizuj do zasobnika zadań",
     "settings-save": "Zapisz ustawienia",
-    "settings-mod": "Modyfikacja klienta:"
+    "settings-mod": "Modyfikacja klienta:",
+    "settings-theme": "ArmCord Theme:",
+    "settings-theme-glasstron": "Glasstron (experimental)",
+    "settings-theme-tabs": "Tabs (experimental)",
+    "settings-theme-default": "Default",
+    "settings-theme-native": "Native",
+    "settings-patches": "Automatic Patches",
+    "settings-invitewebsocket": "discord.gg support"
 }
