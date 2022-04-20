@@ -13,11 +13,9 @@
     "setup_question1_answer1": "Ekspresowa konfiguracja",
     "setup_question1": "Wybierz w jaki sposób chcesz skonfigurować ArmCord:",
     "setup_offline": "Wydaje nam się że nie jesteś połączony z internetem. Połącz się z internetem i uruchom ponownie konfiguracje ArmCord .",
-    "settings-glasstron": "Glasstron (eksperymentalne)",
     "settings-channel": "Kanał Discorda:",
     "settings-updater": "Sprawdź aktualizacje",
     "settings-tray": "Zminimalizuj do zasobnika zadań",
     "settings-save": "Zapisz ustawienia",
-    "settings-titlebar": "Niestandardowy pasek kontroli ArmCord",
     "settings-mod": "Modyfikacja klienta:"
 }
